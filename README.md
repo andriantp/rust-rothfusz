@@ -191,6 +191,13 @@ Possible extensions include:
 
 ---
 
+## Further Reading
+
+I wrote an accompanying article that explains the motivation behind this implementation, including the Rothfusz regression, heat stress categories, and why additional humidity rules can be useful in tropical environments.
+
+* Medium:[From Temperature to Perceived Heat](https://andriantriputra.medium.com/rothfusz-from-temperature-to-perceived-heat-2a36e05ca7f5)
+
+---
 ## Author
 
 **Andrian Tri Putra**
